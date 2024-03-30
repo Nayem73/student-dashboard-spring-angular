@@ -1,7 +1,13 @@
 # student-dashboard-spring-angular
--> MySQL username & password = nayemapp
--> Server used in MySQL Database = 3306
--> schema used in MySQL Database = world
--> port used in Spring = 9090
--> rest api path = /api
--> for more understanding = https://github.com/Nayem73/student-dashboard-spring-angular/blob/main/spring-backend/student/src/main/resources/application.properties
+
+## Database Configs to run Backend
+
+Configure the application.properties with your own database username(currently root) and password(currently root) as well as database name(currently world) https://github.com/Nayem73/student-dashboard-spring-angular/blob/main/spring-backend/student/src/main/resources/application.properties
+
+
+
+## Simple way for keeping and updating students info
+
+![](assets/2024-03-30-09-16-34-image.png)
+
+![](assets/2024-03-30-09-19-25-image.png)
